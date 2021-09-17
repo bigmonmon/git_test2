@@ -12,7 +12,7 @@ public class Hello {
 		this.message = message;
 	}
 
-	public Sting say() {
+	public String say() {
 		return message;
 	}
 
